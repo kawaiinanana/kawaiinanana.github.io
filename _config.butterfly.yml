@@ -96,9 +96,9 @@ background: url(https://i0.hdslb.com/bfs/new_dyn/61d7d4527a541597f861590b1182b9d
 
 cover:
   # Disable the cover or not
-  index_enable: true
-  aside_enable: true
-  archives_enable: true
+  index_enable: false
+  aside_enable: false
+  archives_enable: false
   # When cover is not set, the default cover is displayed
   default_cover:
     # - xxx.jpg
