@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo Template
+title: nana blog
 subtitle: ''
 description: ''
 keywords:
-author: JiJi
+author: nana
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://std.ac/hexo-template
+url: https://kawaiinanana.github.io
 permalink: :title/
 permalink_defaults:
 pretty_urls:
