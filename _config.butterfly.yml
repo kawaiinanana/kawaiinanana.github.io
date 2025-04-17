@@ -94,7 +94,7 @@ footer_img: false
 # Can set it to color or image url
 background: https://img.picui.cn/free/2025/04/17/6800c4c7569fb.png
 
-cover: 
+cover:
   # Disable the cover or not
   index_enable: false
   aside_enable: false
